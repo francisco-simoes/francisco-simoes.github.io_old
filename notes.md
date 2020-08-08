@@ -35,7 +35,7 @@ I believe this is a good document to read if you are a mathematical physicists t
 
 <br />
 ![](./assets/imgs/tetrahedronGraph.png){: style="float: left; width:169px; margin-right: 1em;"}
-[Cell complex structure of the double tetrahedron](./assets/docs/tetrahedron_cell_structure_inv.pdf)  
+[Cell complex structure of the double tetrahedron](./assets/docs/tetrahedron_cell_structure.pdf)  
 
 I construct the cell structure of the double tetrahedron, and use it to find its fundamental group. 
 I solved this problem in the context of a course on algebraic geometry.
