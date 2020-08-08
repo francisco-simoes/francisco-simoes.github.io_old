@@ -4,7 +4,7 @@ title: Notes
 permalink: /notes/
 ---
 
-![](/assets/imgs/CYmanifold.jpg){: style="float: left; width:150px; margin-right: 1em;"}
+![](/assets/imgs/CYmanifold_inv.jpg){: style="float: left; width:150px; margin-right: 1em;"}
 [Monoidal Category of D-branes in a Kazama-Suzuki  model](/assets/docs/Thesis_Francisco_Simoes.pdf)
 
 This is my Master's thesis. It consists of an application of category theory to string theory. I included a brief introduction to both category theory and superstring theory. I believe it can be useful to someone trying to understand  Kac-Moody algebras in the context of string theory, and representation theory of the Virasoro algebra in general.  
@@ -33,7 +33,7 @@ I believe this is a good document to read if you are a mathematical physicists t
 
 <br />
 ![](./assets/imgs/tetrahedronGraph.png){: style="float: left; width:169px; margin-right: 1em;"}
-[Cell complex structure of the double tetrahedron](./assets/docs/tetrahedron_cell_structure.pdf)  
+[Cell complex structure of the double tetrahedron](./assets/docs/tetrahedron_cell_structure_inv.pdf)  
 
 I construct the cell structure of the double tetrahedron, and use it to find its fundamental group. 
 I solved this problem in the context of a course on algebraic geometry.
@@ -42,7 +42,7 @@ I solved this problem in the context of a course on algebraic geometry.
 ---------------------
 
 <br />
-![](./assets/imgs/knots.jpeg){: style="float: left; width:149px; margin-right: 1em;"}
+![](./assets/imgs/knots_inv.jpeg){: style="float: left; width:149px; margin-right: 1em;"}
 [Topological and metric spaces](./assets/docs/AQuickTakeOnMetricAndTopology.pdf)  
 
 This is a very quick take on metric and topological spaces. It is just enough to prepare a physicist to learn about manifolds for a General Relativity course.
