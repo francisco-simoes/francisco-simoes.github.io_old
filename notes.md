@@ -20,3 +20,13 @@ This is a summary of some contents of the book by Joachim Kock on TQFTs. It is t
 <br />
 
 ---------------------
+
+<br />
+![](./assets/imgs/CatTheory.png){: style="float: left; width:149px; margin-right: 1em;"}
+[Highway to modular categories](./assets/docs/ModularCats.pdf)  
+
+I summarized the quickest way I could find of going from monoidal categories all the way to modular categories. Up to pre-modular categories the treatment is quite complete, but after that the discussion gets more superficial as I was running out of time.
+I believe this is a good document to read if you are a mathematical physicists trying to get to modular categories as quickly as possible. Read alongside "Tensor categories" by Etingof et al.
+<br />
+
+---------------------
