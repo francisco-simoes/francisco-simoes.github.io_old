@@ -13,4 +13,4 @@ Some of my programming, Data Science and AI projects can be found on [my github 
 In this website I store a selection of texts and notes, as well as links to some projects.
 Many were written on Physics and Mathematics during my studies; others concern DS and AI topics.
 
-Here you can alsI wroteo consult my CV.
+Here you can also consult my CV.
