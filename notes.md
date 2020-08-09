@@ -6,6 +6,7 @@ permalink: /notes/
 
 ---------------------
 
+<br />
 ![](/assets/imgs/CYmanifold_inv.jpg){: style="float: left; width:150px; margin-right: 1em;"}
 [Monoidal Category of D-branes in a Kazama-Suzuki  model](/assets/docs/Thesis_Francisco_Simoes.pdf)
 
@@ -48,7 +49,6 @@ I solved this problem in the context of a course on algebraic geometry.
 [Topological and metric spaces](./assets/docs/AQuickTakeOnMetricAndTopology.pdf)  
 
 This is a very quick take on metric and topological spaces. It is just enough to prepare a physicist to learn about manifolds for a General Relativity course.
-
 <br />
 
 ---------------------
@@ -59,7 +59,6 @@ This is a very quick take on metric and topological spaces. It is just enough to
 Physicists usually treat tensors as indexed lists transforming in a certain way.
 Here I briefly present a basis-invariant way to look at tensors which seems to me much more natural.
 I also comment on how bras in Quantum Mechanics are examples of tensors.
-
 <br />
 
 ---------------------
