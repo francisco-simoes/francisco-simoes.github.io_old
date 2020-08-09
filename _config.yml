@@ -17,3 +17,5 @@ linkedin_username: francisco-nfq-simoes
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-minimal
