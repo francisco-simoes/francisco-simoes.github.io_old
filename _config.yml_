@@ -9,7 +9,8 @@
 title: Francisco Simoes
 email: francisconfqsimoes@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-url: franciscosimoes.org
+url: francisco-simoes.github.io
+baseurl: /franciscosimoes_website
 #twitter_username: francisco-simoes
 github_username: francisco-simoes
 linkedin_username: francisco-nfq-simoes
