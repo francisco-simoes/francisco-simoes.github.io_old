@@ -4,6 +4,8 @@ title: Some notes and projects
 permalink: /notes/
 ---
 
+---------------------
+
 <br />
 ![](./assets/imgs/jpca.png){: style="float: left; width:120px; margin-right: 1em;"}
 [Jaccard Kernel PCA in genomic data for ALS](./assets/docs/jPCA_internship_summary.pdf)
@@ -22,7 +24,6 @@ A short project where I implemented the genetic algorithm from scratch in a popu
 The goal was to visualize and understand the genetic algorithm.
 The "DNA" of a robot is a sequence of instructions to move from the set {"up", "down", "left", "right"}. 
 After enough generations, the robots are able to find the goal position (upper-right corner of a 10x10 grid) from the initial position (lower-left corner of the grid).
-
 <br />
 
 ---------------------
@@ -70,6 +71,7 @@ I solved this problem in the context of a course on algebraic geometry.
 [Topological and metric spaces](./assets/docs/AQuickTakeOnMetricAndTopology.pdf)  
 
 This is a very quick take on metric and topological spaces. It is just enough to prepare a physicist to learn about manifolds for a General Relativity course.
+
 <br />
 
 ---------------------
@@ -77,6 +79,7 @@ This is a very quick take on metric and topological spaces. It is just enough to
 <br />
 ![](./assets/imgs/metric.gif){: style="float: left; width:149px; margin-right: 1em;"}
 [Tensors](./assets/docs/TensorsQuickTake.pdf)  
+
 Physicists usually treat tensors as indexed lists transforming in a certain way.
 Here I briefly present a basis-invariant way to look at tensors which seems to me much more natural.
 I also comment on how bras in Quantum Mechanics are examples of tensors.
