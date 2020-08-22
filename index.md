@@ -36,3 +36,12 @@ My Master's thesis. It consists of an application of category theory to string t
 <br />
 
 ---------------------
+
+<br />
+![](./assets/imgs/ses.png){: style="float: left; width:60px; margin-right: 1em;"}
+[Forecast of mosquitoe population (blog article)](https://www.510.global/healthcare-hackathon-results/)
+
+Group project for the red cross, from a weekend-long healthcare hackaton. See also my [github repository](https://github.com/francisco-simoes/exponential_smoothing-mosquitoes_hackaton). 
+<br />
+
+---------------------

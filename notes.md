@@ -29,6 +29,19 @@ After enough generations, the robots are able to find the goal position (upper-r
 ---------------------
 
 <br />
+![](./assets/imgs/ses.png){: style="float: left; width:120px; margin-right: 1em;"}
+[Forecast of mosquitoe population (blog article)](https://www.510.global/healthcare-hackathon-results/)
+
+Summary of a group project for the red cross, developed in a weekend-long healthcare hackaton.
+We created a time series model to predict peaks in the mosquitoe population in the Philippines.
+From this, one can in principle try to predict Dengue outbreaks.
+My part was to establish a base model using simple exponential smoothing methods, about which I knew nothing about prior to this project.
+Besides the article, an exploration of exponential smoothing methods (using the mosquitoe data) can be found in the [github repository](https://github.com/francisco-simoes/exponential_smoothing-mosquitoes_hackaton).
+<br />
+
+---------------------
+
+<br />
 ![](/assets/imgs/CYmanifold_inv.jpg){: style="float: left; width:120px; margin-right: 1em;"}
 [Monoidal Category of D-branes in a Kazama-Suzuki  model](/assets/docs/Thesis_Francisco_Simoes.pdf)
 
