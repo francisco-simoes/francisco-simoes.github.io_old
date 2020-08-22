@@ -1,8 +1,27 @@
 ---
 layout: page
-title: Notes
+title: Some notes and projects
 permalink: /notes/
 ---
+
+<br />
+![](./assets/imgs/jpca.png){: style="float: left; width:150px; margin-right: 1em;"}
+[Jaccard Kernel PCA in genomic data for ALS](./assets/docs/jPCA_internship_summary.pdf)
+
+This is a summary of important results obtained during my four-and-a-half months long internship at the UMC Utrecht Brain Center under the guidance of Dr. Kevin P. Kenna. 
+The goal of the project was to aid an ongoing GWAS on Amyotrophic lateral sclerosis (ALS) by improving on its population stratification control method. 
+A good candidate method is Jaccard principal component analysis (jPCA) - a particular case of Kernel principal component analysis.
+I developed a set of scripts capable of running jPCA on very large datasets (through parallelization) and another one allowing for arbitrary positive integers in the burdens.\\
+The scripts can be found in [the github repository](https://github.com/francisco-simoes/genotype-hpc-jPCA).
+<br />
+
+---------------------
+
+<br />
+![](./assets/imgs/robot.png){: style="float: left; width:150px; margin-right: 1em;"}
+[Pathfinding in a grid using the genetic algorithm (GitHub)](https://github.com/francisco-simoes/genetically-trained-robots)
+A short project where I implemented the genetic algorithm from scratch in a population of virtual "robots" to solve a 2D pathfinding problem in a grid.
+<br />
 
 ---------------------
 
