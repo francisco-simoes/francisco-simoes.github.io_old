@@ -17,6 +17,17 @@ I developed a set of scripts capable of running Jaccard PCA on very large datase
 ---------------------
 
 <br />
+![](./assets/imgs/alphafold.png){: style="float: left; width:120px; margin-right: 1em;"}
+[The AlphaFold algorithm](./assets/docs/alphafold_summary.pdf)
+
+Informal summary of the AlphaFold pipeline, and of the main concepts one needs in order to understand it.
+This comes from the initial project of my internship at the UMC Utrecht Brain Center, which was eventually abandoned when we realized that the opensourced part of AlphaFold is not enough from practical usage.
+The reason why is also discussed in this summary.
+<br />
+
+---------------------
+
+<br />
 ![](./assets/imgs/robot.png){: style="float: left; width:120px; margin-right: 1em;"}
 [Pathfinding in a grid using the genetic algorithm (GitHub)](https://github.com/francisco-simoes/genetically-trained-robots)
 
