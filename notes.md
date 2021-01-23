@@ -71,7 +71,7 @@ This is a summary of some contents of the book by Joachim Kock on TQFTs. It is t
 ---------------------
 
 <br />
-![](./assets/imgs/CatTheory.png){: style="float: left; width:149px; margin-right: 1em;"}
+![](./assets/imgs/CatTheory.png){: style="float: left; width:159px; margin-right: 1em;"}
 [Highway to modular categories](./assets/docs/ModularCats.pdf)  
 
 I summarized the quickest way I could find of going from monoidal categories all the way to modular categories. Up to pre-modular categories the treatment is quite complete, but after that the discussion gets more superficial as I was running out of time.
@@ -91,11 +91,11 @@ I solved this problem in the context of a course on algebraic geometry.
 ---------------------
 
 <br />
-![](./assets/imgs/sphere.png){: style="float: left; width:120px; margin-right: 1em;"}
+![](./assets/imgs/sphere.png){: style="float: left; width:110px; margin-right: 1em;"}
 [Cell complex structure of the double tetrahedron](./assets/docs/CohomologyForSpheres.pdf)
 
 Explicit demonstration of the de Rham cohomology of the n-sphere, assuming that the easiest case
-of the 1-sphere, which can be seen in most differential geometry books, is already known.
+of the 1-sphere - which can be seen in most differential geometry books - is already solved.
 <br />
 
 ---------------------
