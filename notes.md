@@ -92,7 +92,7 @@ I solved this problem in the context of a course on algebraic geometry.
 
 <br />
 ![](./assets/imgs/sphere.png){: style="float: left; width:110px; margin-right: 1em;"}
-[Cell complex structure of the double tetrahedron](./assets/docs/CohomologyForSpheres.pdf)
+[The de Rham cohomology of the n-sphere](./assets/docs/CohomologyForSpheres.pdf)
 
 Explicit demonstration of the de Rham cohomology of the n-sphere, assuming that the easiest case
 of the 1-sphere - which can be seen in most differential geometry books - is already solved.
