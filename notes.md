@@ -91,6 +91,16 @@ I solved this problem in the context of a course on algebraic geometry.
 ---------------------
 
 <br />
+![](./assets/imgs/sphere.png){: style="float: left; width:169px; margin-right: 1em;"}
+[Cell complex structure of the double tetrahedron](./assets/docs/CohomologyForSpheres.pdf)
+
+Explicit demonstration of the de Rham cohomology of the n-sphere, assuming that the easiest case
+of the 1-sphere, which can be seen in most differential geometry books, is already known.
+<br />
+
+---------------------
+
+<br />
 ![](./assets/imgs/knots_inv.jpeg){: style="float: left; width:149px; margin-right: 1em;"}
 [Topological and metric spaces](./assets/docs/AQuickTakeOnMetricAndTopology.pdf)  
 
