@@ -6,7 +6,9 @@ title: Home
 ![](/assets/imgs/formalishPhoto.jpg){: style="float: left; width:430px; margin-right: 1em;"}
 
 
-During my studies (MSc), I walked the path between Theoretical Physics and Pure Mathematics. I have recently transitioned to DS and AI. My deepest interests lie in what causal relationships can we safely extract from data, why we (humans) prefer certain models of reality over others (and are we justified in doing so?) and how does this relate to AI.
+During my studies (MSc), I walked the path between Theoretical Physics and Pure Mathematics. I have recently transitioned to DS and AI.
+
+I am interested the most in questions like: what causal relationships can we safely extract from data, why we (humans) prefer certain models of reality over others (and are we justified in doing so?) and how does this relate to AI.
 
 Some of my programming, Data Science and AI projects can be found on [my github page](https://github.com/francisco-simoes).
 
