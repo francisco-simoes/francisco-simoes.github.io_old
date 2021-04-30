@@ -7,7 +7,7 @@ permalink: /notes/
 ---------------------
 
 <br />
-![](./assets/imgs/alphafold.png){: style="float: left; width:120px; margin-right: 1em;"}
+![](./assets/imgs/grapes_with_overlay.jpg){: style="float: left; width:120px; margin-right: 1em;"}
 [Photoscale data api package - public version (GitHub)](https://github.com/francisco-simoes/photoscale-data-api-public)
 
 This is a description of a package I was responsible for developing, and worked on it with my team at my current company.
