@@ -7,6 +7,19 @@ permalink: /notes/
 ---------------------
 
 <br />
+![](./assets/imgs/alphafold.png){: style="float: left; width:120px; margin-right: 1em;"}
+[Photoscale data api package - public version (GitHub)](https://github.com/francisco-simoes/photoscale-data-api-public)
+
+This is a description of a package I was responsible for developing, and worked on it with my team at my current company.
+The package consists of an api that enables the easy analysis access to different types of data (pictures, segmentation polygons, weight curves,... ) used to tackle the computer vision problem that the company's product solves.
+For reasons of industry competition I did not add the code itself to the repository.
+So this repository was made public for portfolio reasons, or to be used by someone seeking inspiration to solve a similar problem.
+
+<br />
+
+---------------------
+
+<br />
 ![](./assets/imgs/jpca.png){: style="float: left; width:120px; margin-right: 1em;"}
 [Jaccard Kernel PCA in genomic data for ALS](./assets/docs/jPCA_internship_summary.pdf)
 
