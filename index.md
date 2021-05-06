@@ -40,10 +40,11 @@ My Master's thesis. It consists of an application of category theory to string t
 ---------------------
 
 <br />
-![](./assets/imgs/ses.png){: style="float: left; width:60px; margin-right: 1em;"}
-[Forecast of mosquitoe population (blog article)](https://www.510.global/healthcare-hackathon-results/)
+![](./assets/imgs/causal_inf1.png){: style="float: left; width:60px; margin-right: 1em;"}
+[Paper summaries for the causal inference reading group](./assets/docs/reading_group_notes.pdf)
 
-Group project for the red cross, from a weekend-long healthcare hackaton. See also my [github repository](https://github.com/francisco-simoes/exponential_smoothing-mosquitoes_hackaton). 
+Summaries of some of the papers that are analysed in the reading group of the causal inference lab. Updated biweekly.
+
 <br />
 
 ---------------------
