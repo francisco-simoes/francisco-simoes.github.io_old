@@ -4,6 +4,18 @@ title: Some notes and projects
 permalink: /notes/
 ---
 
+
+---------------------
+
+<br />
+![](./assets/imgs/causalinf1.png){: style="float: left; width:120px; margin-right: 1em;"}
+[Paper summaries for the causal inference reading group](./assets/docs/reading_group_notes.pdf)
+
+The are summaries of some of the papers that are analysed in the reading group of the causal inference lab from the University of Amsterdam's Institute of Logic, Language and Computation, which I joined in May 2021.
+I will update this file every couple of weeks.
+
+<br />
+
 ---------------------
 
 <br />
