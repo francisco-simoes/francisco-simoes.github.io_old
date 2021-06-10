@@ -43,7 +43,7 @@ My Master's thesis. It consists of an application of category theory to string t
 ![](./assets/imgs/causal_inf1.png){: style="float: left; width:60px; margin-right: 1em;"}
 [Paper summaries for the causal inference reading group](./assets/docs/reading_group_notes.pdf)
 
-Summaries of some of the papers that are analysed in the reading group of the causal inference lab. Updated biweekly.
+Summaries of some of the papers that are analysed in the reading group of the causal inference lab. Updated periodically.
 
 <br />
 

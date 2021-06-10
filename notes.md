@@ -12,7 +12,7 @@ permalink: /notes/
 [Paper summaries for the causal inference reading group](./assets/docs/reading_group_notes.pdf)
 
 These are summaries of some of the papers that are analysed in the reading group of the causal inference lab from the University of Amsterdam's Institute of Logic, Language and Computation, which I joined in May 2021.
-I will update this file every couple of weeks.
+I will update this file periodically.
 
 <br />
 
@@ -24,7 +24,7 @@ I will update this file every couple of weeks.
 
 This is a description of a Python package I was responsible for developing. 
 I worked on it with my team at my current company.
-The package consists of an api that enables the easy analysis access to different types of data (pictures, segmentation polygons, weight curves,... ) used to tackle the computer vision problem that the company's product solves.
+The package consists of an api that enables the easy analysis and access to different types of data (pictures, segmentation polygons, weight curves,... ) used to tackle the computer vision and data science problems that the company's product solves.
 For reasons of industry competition I did not add the code itself to the repository.
 So this repository was made public for portfolio reasons, or to be used by someone seeking inspiration to solve a similar problem.
 
