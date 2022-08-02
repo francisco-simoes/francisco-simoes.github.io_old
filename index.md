@@ -6,11 +6,14 @@ title: Home
 ![](/assets/imgs/formalishPhoto.jpg){: style="float: left; width:430px; margin-right: 1em;"}
 
 
-During my studies (MSc), I walked the path between Theoretical Physics and Pure Mathematics. I have recently transitioned to DS and AI.
+I am a mathematical physicist by training (MSc) and currently a PhD student at the department of information and computing sciences of Utrecht University. 
 
-I am interested the most in questions like: what causal relationships can we safely extract from data, why we (humans) prefer certain models of reality over others (and are we justified in doing so?) and how does this relate to AI.
+Currently looking at:
+- How to build useful abstractions from data making use of the interventionist framework of causal inference?
+- How to use causal inference for traffic control in train networks?
+- How to mathematically model causal concepts coming from philosophy of science literature that have not yet been made rigorous by the AI community?
 
-Some of my programming, Data Science and AI projects can be found on [my github page](https://github.com/francisco-simoes).
+Some of my past programming, Data Science and AI projects can be found on [my github page](https://github.com/francisco-simoes).
 
 In this website I store a selection of texts and notes, as well as links to some projects.
 Many were written on Physics and Mathematics during my studies; others concern DS and AI topics.
