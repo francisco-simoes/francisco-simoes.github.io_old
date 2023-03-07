@@ -6,6 +6,8 @@ title: Home
 ![](/assets/imgs/formalishPhoto.jpg){: style="float: left; width:430px; margin-right: 1em;"}
 
 
+[NOTE: This website is currently not up do date]
+
 I am a mathematical physicist by training (MSc) and currently a PhD student at the department of information and computing sciences of Utrecht University. 
 
 Currently looking at:
